@@ -1,1 +1,1 @@
-# telco-churn-mlops
+# Telco Customer Churn
